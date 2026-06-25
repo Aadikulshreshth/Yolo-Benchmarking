@@ -25,7 +25,7 @@ for model_path in MODELS:
     start = time.time()
 
     model.predict(
-        source=r"C:\Users\AADI\Yolo\benchmark\images",
+        source=r"",
         device=0,
         save=False,
         verbose=False
