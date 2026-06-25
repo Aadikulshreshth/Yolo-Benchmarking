@@ -1,7 +1,7 @@
 import os
 
-SOURCE = r"C:\Users\AADI\Yolo\benchmark\labels"
-DEST = r"C:\Users\AADI\Yolo\benchmark_coco\labels"
+SOURCE = r""
+DEST = r""
 
 os.makedirs(DEST, exist_ok=True)
 
