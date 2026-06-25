@@ -32,7 +32,7 @@ with open("threshold_results.csv", "w", newline="") as f:
             print(f"\n{model_name}  |  conf={conf}")
 
             metrics = model.val(
-                data=r"C:\Users\AADI\Yolo\benchmark_coco\dataset.yaml",
+                data=r"",
                 imgsz=640,
                 device=0,
                 workers=0,
