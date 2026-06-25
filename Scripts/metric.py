@@ -17,7 +17,7 @@ def main():
         model = YOLO(model_name)
 
         metrics = model.val(
-            data=r"C:\Users\AADI\Yolo\benchmark_coco\dataset.yaml",
+            data=r"\dataset.yaml",
             split="val",
             device=0,
             imgsz=640
