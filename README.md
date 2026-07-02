@@ -122,8 +122,7 @@ YOLO-Benchmarking/
 ├── scripts/
 ├── results/
 ├── requirements.txt
-├── README.md
-└── LICENSE
+└── README.md
 ```
 
 ---
