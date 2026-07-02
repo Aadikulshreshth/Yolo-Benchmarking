@@ -1,0 +1,6 @@
+Model,Size_MB,Total_Time_s,FPS
+yolov8n.pt,6.25,43.35,46.14
+yolov8s.pt,21.54,41.92,47.72
+yolov8m.pt,49.72,44.5,44.94
+yolo11n.pt,5.35,42.65,46.89 
+yolo11s.pt,18.42,44.0,45.46
