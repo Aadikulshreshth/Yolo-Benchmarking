@@ -121,9 +121,6 @@ YOLO-Benchmarking/
 │
 ├── scripts/
 ├── results/
-├── graphs/
-├── sample_images/
-├── report/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
